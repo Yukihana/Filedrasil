@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filedrasil", "Filedrasil\Filedrasil.csproj", "{7CBF988F-1DE7-43C4-8E63-E31FE3B4B00E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filedrasil.Integrity", "Filedrasil.Integrity\Filedrasil.Integrity.csproj", "{DEC13CB7-51AE-4322-ABD6-B8FEFA43F6C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CBF988F-1DE7-43C4-8E63-E31FE3B4B00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CBF988F-1DE7-43C4-8E63-E31FE3B4B00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CBF988F-1DE7-43C4-8E63-E31FE3B4B00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CBF988F-1DE7-43C4-8E63-E31FE3B4B00E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEC13CB7-51AE-4322-ABD6-B8FEFA43F6C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC13CB7-51AE-4322-ABD6-B8FEFA43F6C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC13CB7-51AE-4322-ABD6-B8FEFA43F6C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC13CB7-51AE-4322-ABD6-B8FEFA43F6C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {981CF664-ABF4-4B0A-B6B2-91E5F28B2C39}
+	EndGlobalSection
+EndGlobal
